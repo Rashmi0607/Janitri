@@ -1,4 +1,4 @@
-Got it — we’ll remove **Gitpod** references and make it a **clean Selenium + TestNG project README** for **manual/local execution only**.
+#Test case Link : https://docs.google.com/spreadsheets/d/1GMHPknPxvVjSt6rnJln6qBidNm0Aet4rVy4tlFYJcT8/edit?usp=sharing 
 
 ---
 
